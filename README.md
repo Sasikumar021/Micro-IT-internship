@@ -1,6 +1,6 @@
 # Micro-IT-Internship
 
-This repository contains two beginner-friendly Python GUI projects developed during a micro internship using **Tkinter** in **Pydroid 3 (Android)**:
+This repository contains two beginner-friendly Python projects developed during a micro internship using **Tkinter** in **Pydroid 3 (Android)**:
 
 - **Calculator App**
 - **To-Do List Application**
